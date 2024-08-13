@@ -18,7 +18,8 @@ const Splidehead = () => {
         autoWidth: true,
         height: '300px',
         extension: [ Intersection ],
-        interval: 2000
+        interval: 4000,
+        speed: 2000
     } }>
       <SplideSlide>
         <img src="https://pd.w.org/2024/08/57966b379515bf8a2.55687941-1024x683.jpg" alt="Image 1"/>
