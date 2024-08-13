@@ -2,7 +2,10 @@
 
 const ButtonNa = () => {
   return (
-    <div>ButtonNa</div>
+    <>
+    <button className="btn btn-success mt-4">เข้าเรียน</button>
+    <button className="btn btn-outline btn-warning">ดูบทเรียน</button>
+    </>
   )
 }
 

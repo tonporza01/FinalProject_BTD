@@ -13,8 +13,8 @@ const HeroSec_I = () => {
         Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
         quasi. In deleniti eaque aut repudiandae et a id nisi.
       </p>
-      <button className="btn btn-warning me-4">Get Started</button>
-      <button className="btn btn-success me-4">Get Started</button>
+      <button className="btn btn-warning me-4">ดูคอร์สเรียน</button>
+      <button className="btn btn-success me-4">สมัครเรียนกับเรา</button>
     </div>
   </div>
 </div>
