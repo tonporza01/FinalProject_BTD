@@ -1,8 +1,8 @@
-import './App.css'
 import '@splidejs/react-splide/css'
 import Splidehead from './components/Splidehead'
 import HeroSec_I from './components/HeroSec_I'
 import { Drawer } from '@mui/material'
+import Videoscon from './components/Videoscon'
 
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
     <Drawer/>
     <Splidehead/>
     <HeroSec_I/>
+    <Videoscon/>
     
     </>
   )
