@@ -33,7 +33,8 @@ const Nav = () => {
         <li><a>ติดต่อเรา</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">ExpDev</a>
+    <a className="btn btn-ghost text-xl" href="/">
+      <img className="w-8" src="/src/assets/the-brain-svgrepo-com.svg" alt="" />ExpDev</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
