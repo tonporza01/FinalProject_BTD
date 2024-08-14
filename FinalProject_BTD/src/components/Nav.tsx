@@ -52,7 +52,7 @@ const Nav = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">เข้าสู่ระบบ</a>
+    <a href="/login" className="btn">เข้าสู่ระบบ</a>
   </div>
 </div>
   )
