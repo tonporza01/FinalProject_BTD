@@ -19,16 +19,16 @@ const Splidehead = () => {
         height: '300px',
         extension: [ Intersection ],
         interval: 4000,
-        speed: 2000
+        speed: 2000,
     } }>
       <SplideSlide>
-        <img src="https://pd.w.org/2024/08/57966b379515bf8a2.55687941-1024x683.jpg" alt="Image 1"/>
+        <img className='bg-cover bg-center' src="https://pd.w.org/2025/01/130678619dd986f58.98304987-1024x683.jpg" alt="Image 1"/>
       </SplideSlide>
       <SplideSlide>
-        <img src="https://pd.w.org/2024/08/67366b502277ce356.99477126-1024x683.jpg" alt="Image 2"/>
+        <img className='bg-cover bg-center' src="https://pd.w.org/2024/08/67366b502277ce356.99477126-1024x683.jpg" alt="Image 2"/>
       </SplideSlide>
       <SplideSlide>
-        <img src="https://pd.w.org/2024/07/66066aa300ad9d584.69841473-1024x683.jpg" alt="Image 2"/>
+        <img className='bg-cover bg-center' src="https://pd.w.org/2024/07/66066aa300ad9d584.69841473-1024x683.jpg" alt="Image 2"/>
       </SplideSlide>
     </Splide>
   )

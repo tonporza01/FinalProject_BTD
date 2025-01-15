@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import Footer from './components/footer.tsx'
+import Footer from './components/Footer.tsx'
 import Header from './components/Header.tsx'
 import WrappedRoute from './components/WrappedRoute.tsx'
 
